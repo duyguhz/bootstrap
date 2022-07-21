@@ -1,0 +1,94 @@
+
+nav{
+    background-color: rgb(44, 62, 80);
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 900;
+    
+
+
+
+}
+.section-1{
+    background-color: rgb(26, 188, 156);
+}
+.pic{
+    width: 300px;
+    height:300px ;
+    margin: 20px;
+    padding: auto;
+   
+}
+.about{
+    background-color: rgb(26, 188, 156);
+    height: 300px;
+    
+}
+.h1{
+    margin: 20px;
+    padding: 20px;
+   
+}
+.name{
+    padding: 30px;
+  
+    
+}
+.email{
+    padding: 30px;
+}
+.number{
+    padding: 30px;
+}
+.message{
+    padding: 30px;
+}
+footer{
+    background-color:rgb(44, 62, 80); 
+    
+}
+.location{
+    margin: 30px;
+    padding: 30px;
+}
+.web{
+    margin: 30px;
+    padding: 30px;
+}
+.freelancer{
+    margin: 30px;
+    padding: 30px;
+   
+}
+h2{
+    font-size: 48px;
+    text-transform: uppercase;
+    
+}
+h4{
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.info{
+    overflow-wrap: break-word;
+}
+.copyright{
+    background-color:rgb(26, 37, 47);  
+    color: white;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
